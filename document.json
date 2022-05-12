@@ -1,0 +1,56 @@
+{
+
+    "document.pdf":{
+        "PROMO MANAGEMENT- VENDOR USER":1,
+        "MANAGE PROMOS FOR VENDOR USER":1,
+        "ADD NEW PROMOS":2,
+        "EDIT PROMOS":2,
+        "EDIT APPROVED PROMOS":3,
+        "PROMO MANAGEMENT- BUYER USER":3,
+        "MANAGE PROMOS FOR BUYER USER":3,
+        "EDIT PROMOS ":3
+    },
+    "document2.pdf":{
+        "New Item Proposal":3,
+        "Vendor, Buyer, Item Description":3,
+        "Item, Brand, Retailer Size, UOM, Purchase Unit, Weight Type and Country of Origin":4,
+        "Shelf Life":4,
+        "Retailer Item Des, Sales Unit Description and POS Description":5,
+        "Merchandise Hierarchy":5,
+        "Item SKU and Coefficients":6,
+        "UPC codes":7,
+        "Length Unit of Measure and Gross Weight/Unit":7,
+        "Palletization Plan":8,
+        "Ordering Params":9,
+        "Cost and Deal":9,
+        "Global Cost":9,
+        "Cost":9,
+        "Deal":10,
+        "Saleable":10,
+        "Retail Price":11,
+        "Store Order Params":11,
+        "Attributes":12,
+        "Images/Documents":13,
+        "Nutrition/Allergens":13,
+        "Nutrition":13,
+        "Allergens":14,
+        "Food Safety":14,
+        "Comments":15
+
+    },
+
+    "document3.pdf":{
+        "Vendor Registration":3,
+        "Vendor Request":3,
+        "Creating vendor with vendor manager Approve process":4,
+        "Creating vendor with Auto approve process":6,
+        "Vendor information setup (Vendor User)":8,
+        "Vendor Information setup configuration":9,
+        "Company Info":10,
+        "Shipping Locations":10,
+        "Contact Info":14
+    }
+
+
+}
+
