@@ -17,8 +17,7 @@ def question_cleaner(msg):
         "i want to go to"
     ]
 
-    for kwarg in kwargs:
-        msg.replace(kwarg,"")
+    for kwarg in kwargs: msg.replace(kwarg,"")
 
     return msg
 
